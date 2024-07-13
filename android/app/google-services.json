@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1019070396536",
+    "firebase_url": "https://advance-parking-system-my-fyp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "advance-parking-system-my-fyp",
+    "storage_bucket": "advance-parking-system-my-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019070396536:android:54e27f83e97ba8227b958d",
+        "android_client_info": {
+          "package_name": "com.example.advance_parking_our_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVT4AfUMAS1bCTY_jZZGxGlZ0qLwh8w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
