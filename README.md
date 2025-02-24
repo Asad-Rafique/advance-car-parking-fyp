@@ -46,9 +46,17 @@ For help getting started with Flutter development, view the [online documentatio
 
 #### Face Detection Feature
 ![Face Detection](fyp1.jpeg)
+![Face Detection](fyp2.jpeg)
+![Face Detection](fyp3.jpeg)
+![Face Detection](fyp4.jpeg)
+![Face Detection](fyp5.jpeg)
+![Face Detection](fyp6.jpeg)
+![Face Detection](fyp7.jpeg)
+![Face Detection](fyp8.jpeg)
+![Face Detection](fyp9.jpeg)
+![Face Detection](fyp10.jpeg)
 
-#### IoT Sensor Dashboard
-![IoT Dashboard](https://your-image-link.com/iot-dashboard.png)
+
 
 ---
 
